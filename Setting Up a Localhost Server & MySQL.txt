@@ -21,7 +21,7 @@ Alright, here is what I remember about setting up a local server for both Apache
 
 8. Click on the "Import" tab. You can find it by using Ctrl+F and typing in Import.
 
-9. Click on the "Choose File" button. In the resulting window, naviagate to where you saved "products.sql" and double click on the .sql file.
+9. Click on the "Choose File" button. In the resulting window, naviagate to where you saved "test.sql" and double click on the .sql file.
 
 10. At the bottom of the page, click on the "Go" button.
 
@@ -42,11 +42,5 @@ Alright, here is what I remember about setting up a local server for both Apache
 18. On the left bar, click on "products". You should be taken to a view showing the tables in the database. Click on "products" under the "Table" heading.
 
 19. What shows next is the table's contents. You can add new entries to the table by clicking on the "Insert" tab at the top.
-
-20. Now, go back to the tab that has "localhost/Webstore" in its address bar.
-
-21. Ignore the username and password fields. In the search field, type in a "screw", and press "Search".
-
-22. What should be shown next is the search results, which is any product that contains the word "screw" in its name.
 
 You're done!
